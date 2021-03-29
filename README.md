@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Troy Gilchrist
-- 👀 I’m interested in discovering the unknown unknowns with data analytics.
+- 👀 I’m interested in discovering automated methods to improve decision making capabilities for organizations.
 - 🌱 I’m currently learning deep learning and classification techniques check out my portfolio https://angry-bartik-48ec5d.netlify.app/ 
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me at my email troydgilchrist@gmail.com
